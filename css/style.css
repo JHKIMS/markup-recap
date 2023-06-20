@@ -7,9 +7,11 @@
 @import "components/welcome-header.css";
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
+@import "components/user-component.css";
 
 @import "screens/login-form.css";
 @import "screens/friends.css";
+
 
 body {
     font-family: 'Open Sans', sans-serif;

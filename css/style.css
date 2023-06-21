@@ -12,12 +12,15 @@
 
 @import "screens/login-form.css";
 @import "screens/friends.css";
+@import "screens/search.css";
 
 
 body {
     font-family: 'Open Sans', sans-serif;
     height: 1000vh;
     color:#2e363e;
+    /* background-image: url('https://cdn.nba.com/manage/2023/02/nba-vs-world-GRAPHIC.jpg');
+    background-size: contain; */
 }
 
 .main-screen{
